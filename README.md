@@ -15,6 +15,9 @@ supervisor from updating the application on the device (still downloads the upda
 though). The update is blocked until a call to the supervisor overrides this lock.
 That can be done either though the device dashboard manually, or through the API.
 
+Install the prerequisites by running `pip install -r requirements.txt` in the
+source folder.
+
 This script lets you define how many devices or what percentage of your fleet
 you would like to trigger update on.
 
