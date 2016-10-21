@@ -1,0 +1,2 @@
+resin-sdk==1.5.3
+click==6.6
