@@ -1,5 +1,7 @@
 # stageddeploy
 
+**Deprecated: see instead https://github.com/resin-io-playground/staged-releases**
+
 Helper script for staged roll-out for application updates on resin.io. The script
 uses the [Python SDK](https://github.com/resin-io/resin-sdk-python).
 
